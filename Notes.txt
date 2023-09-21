@@ -1,4 +1,1 @@
-superuser
-
-username - sahil-django
-password - swift_key99
+ref: To Do App | Django 3.0 / Yt- Dennis Ivy
